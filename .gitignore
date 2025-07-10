@@ -1,0 +1,12 @@
+# Go build cache
+/bin/
+/pkg/
+
+# IDE/editor files
+.vscode/
+
+# OS files
+.DS_Store
+
+# Go modules
+go.sum
